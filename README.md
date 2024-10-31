@@ -25,6 +25,15 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-4A4A55?style=for-the-badge&logo=mybatis&logoColor=E54329)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Element-UI](https://img.shields.io/badge/Element--UI-409EFF?style=for-the-badge&logo=element&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
 
 ---
 
@@ -32,7 +41,7 @@
 
 | Project Name   | Description                     | Technologies                     |
 |----------------|---------------------------------|----------------------------------|
-| [BL_Blog](https://github.com/why-qw1ko/BL_Blog) | 博客   | Java            |
+| [BL_Blog](https://github.com/why-qw1ko/BL_Blog) | 博客   | SpringBoot, MybatisPlus            |
 | [Animal](https://github.com/why-qw1ko/Animal) | 流浪动物管理系统 | SpringBoot，Vue，Element-UI        |
 | [Diary](https://github.com/why-qw1ko/Diary) | 时光日记 | Java          |
 
