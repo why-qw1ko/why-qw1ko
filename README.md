@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="https://github.com/why-qw1ko"><img src="https://img.shields.io/github/followers/why-qw1ko?label=Follow&style=social"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-me-blue?style=flat-square&logo=gmail"></a>
+  <a href="mailto:2085886325@qq.com"><img src="https://img.shields.io/badge/Email-me-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <p align="center">
-  <img src="https://github.com/why-qw1ko/why-qw1ko/banner.png" alt="banner" width="100%">
+  <img src="https://raw.githubusercontent.com/why-qw1ko/why-qw1ko/main/banner.png" alt="banner" width="100%">
 </p>
 
 ---
