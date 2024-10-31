@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/why-qw1ko/why-qw1ko/assets/banner.png" alt="banner" width="100%">
+  <img src="https://github.com/why-qw1ko/why-qw1ko/banner.png" alt="banner" width="100%">
 </p>
 
 ---
@@ -42,7 +42,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=why-qw1ko&show_icons=true&theme=radical" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=why-qw1ko&layout=compact&theme=radical" alt="Top languages">
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=why-qw1ko&layout=compact&theme=radical" alt="Top languages"> -->
 </p>
 
 ---
