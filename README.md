@@ -41,7 +41,7 @@
 
 | Project Name   | Description                     | Technologies                     |
 |----------------|---------------------------------|----------------------------------|
-| [BL_Blog](https://github.com/why-qw1ko/BL_Blog) | 博客   | SpringBoot, MybatisPlus            |
+| [BLBlog](https://github.com/why-qw1ko/BLBlog) | 博客   | SpringBoot, MybatisPlus            |
 | [Animal](https://github.com/why-qw1ko/Animal) | 流浪动物管理系统 | SpringBoot，Vue，Element-UI        |
 | [Diary](https://github.com/why-qw1ko/Diary) | 时光日记 | Java          |
 
