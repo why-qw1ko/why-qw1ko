@@ -6,8 +6,16 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/why-qw1ko/why-qw1ko/main/banner.png" alt="banner" width="100%">
+<!--   <img src="https://raw.githubusercontent.com/why-qw1ko/why-qw1ko/main/banner.png" alt="banner" width="100%"> -->
 </p>
+
+| **Welcome To My Repository** |
+|:---:|
+| ![Banner](https://raw.githubusercontent.com/why-qw1ko/why-qw1ko/main/banner.png) |
+
+
+
+
 
 ---
 
