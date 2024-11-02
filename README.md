@@ -49,9 +49,9 @@
 
 | Project Name   | Description                     | Technologies                     |
 |----------------|---------------------------------|----------------------------------|
-| [BLBlog](https://github.com/why-qw1ko/BLBlog) | 博客   | SpringBoot, MybatisPlus            |
+| [BLBlog](https://github.com/why-qw1ko/BLBlog) | 博客   | SpringBoot, MybatisPlus       |
 | [Animal](https://github.com/why-qw1ko/Animal) | 流浪动物管理系统 | SpringBoot，Vue，Element-UI        |
-| [Diary](https://github.com/why-qw1ko/Diary) | 时光日记 | Java          |
+| [Diary](https://github.com/why-qw1ko/Diary) | 时光日记 | Java, SSM 该项目已废弃      |
 
 ---
 
