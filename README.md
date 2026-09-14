@@ -1,88 +1,83 @@
-<h1 align="center">Hi there, I'm W H Y! 👋</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/why-qw1ko"><img src="https://img.shields.io/github/followers/why-qw1ko?label=Follow&style=social"></a>
-  <a href="mailto:2085886325@qq.com"><img src="https://img.shields.io/badge/Email-me-blue?style=flat-square&logo=gmail"></a>
-</p>
+# W H Y
 
-<p align="center">
-<!--   <img src="https://raw.githubusercontent.com/why-qw1ko/why-qw1ko/main/banner.png" alt="banner" width="100%"> -->
-</p>
+> Full-stack Developer | Java • Vue • Spring • Python
 
-| **Welcome To My Repository** |
-|:---:|
-| ![Banner](https://raw.githubusercontent.com/why-qw1ko/why-qw1ko/main/banner.png) |
-
-
-
-
+[![GitHub Followers](https://img.shields.io/github/followers/why-qw1ko?style=flat&labelColor=1f2937&color=0ea5e9)](https://github.com/why-qw1ko)
+[![Email](https://img.shields.io/badge/Contact-2085886325@qq.com-0ea5e9?style=flat&labelColor=1f2937&logo=mail.ru&logoColor=white)](mailto:2085886325@qq.com)
 
 ---
 
-### 👨‍💻 About Me
+</div>
 
-- 🔭 Working as a full-stack developer with expertise in Java, Vue, and Spring.
-- 🌱 Currently exploring other tech stacks and looking for ways to improve code quality.
-- 🤑 Passionate about new technologies and making things profitable.
+## Professional Profile
 
----
+Experienced full-stack developer specializing in enterprise-grade applications using modern Java frameworks and frontend technologies. Passionate about crafting scalable solutions, exploring emerging technologies, and delivering sustainable business value.
 
-### 🛠 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-4A4A55?style=for-the-badge&logo=mybatis&logoColor=E54329)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Element-UI](https://img.shields.io/badge/Element--UI-409EFF?style=for-the-badge&logo=element&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-
+**Core Competencies**
+- Backend: Java • SpringBoot • Spring Framework • MyBatis • MySQL • Redis
+- Frontend: Vue.js • TypeScript • Astro • HTML/CSS
+- DevOps: Docker • Maven • Git
+- Tools: utools Plugin Development • API Design
 
 ---
 
-### 🌟 Featured Projects
+## Featured Projects
 
-| Project Name   | Description                     | Technologies                     |
-|----------------|---------------------------------|----------------------------------|
-| [BLBlog](https://github.com/why-qw1ko/BLBlog) | 博客   | SpringBoot, MybatisPlus       |
-| [Animal](https://github.com/why-qw1ko/Animal) | 流浪动物管理系统 | SpringBoot，Vue，Element-UI        |
-| [Diary](https://github.com/why-qw1ko/Diary) | 时光日记 | Java, SSM 该项目已废弃      |
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=why-qw1ko&show_icons=true&theme=radical" alt="GitHub stats">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=why-qw1ko&layout=compact&theme=radical" alt="Top languages"> -->
-</p>
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| [IntranetPenetration](https://github.com/why-qw1ko/IntranetPenetration) | Intranet Penetration uTools Plugin | JavaScript |
+| [LuxuryVideoTool](https://github.com/why-qw1ko/LuxuryVideoTool) | Douyin Video Extractor - Extract watermark-free videos & captions | Go |
+| [blind-watermark](https://github.com/why-qw1ko/blind-watermark) | Blind Watermark Web Tool & uTools Plugin | HTML / JavaScript |
+| [node-manage-utools](https://github.com/why-qw1ko/node-manage-utools) | Node Version Manager uTools Plugin - Visual NVM management | Vue |
+| [waterpal](https://github.com/why-qw1ko/waterpal) | Social Hydration Reminder App | Java • SpringBoot |
+| [MiMoMoney](https://github.com/why-qw1ko/MiMoMoney) | Xiaomi MiMo Balance & Token Usage Tool | Python |
 
 ---
 
-### 📫 Connect with Me
+## Tech Stack
 
-- Email: [2085886325@qq.com](mailto:2085886325@qq.com)
+**Backend Development**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Frontend Development**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Tools & Infrastructure**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
 
 ---
 
-<p align="center">✨ Feel free to explore my repositories and get in touch! ✨</p>
+## GitHub Statistics
 
-<!--
-**why-qw1ko-qw1ko/why-qw1ko-qw1ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=why-qw1ko&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=why-qw1ko&layout=compact&theme=algolia&hide_border=true" alt="Top Languages"/>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+### Connect
+
+**[Email](mailto:2085886325@qq.com)** • **[GitHub](https://github.com/why-qw1ko)** • **[Repositories](https://github.com/why-qw1ko?tab=repositories)**
+
+</div>
