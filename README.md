@@ -1,11 +1,11 @@
 <div align="center">
 
-# 你好，我是 W H Y!
+# W H Y
 
 > 全栈开发者 | Java • Vue • Spring • Python
 
 [![GitHub Followers](https://img.shields.io/github/followers/why-qw1ko?style=flat&labelColor=1f2937&color=0ea5e9)](https://github.com/why-qw1ko)
-[![Email](https://img.shields.io/badge/邮箱-2085886325@qq.com-0ea5e9?style=flat&labelColor=1f2937&logo=mail.ru&logoColor=white)](mailto:2085886325@qq.com)
+[![邮箱](https://img.shields.io/badge/邮箱-2085886325@qq.com-0ea5e9?style=flat&labelColor=1f2937&logo=mail.ru&logoColor=white)](mailto:2085886325@qq.com)
 
 </div>
 
@@ -76,7 +76,7 @@
 
 <p align="center">
 
-### 联系我
+### 联系方式
 
 [邮箱](mailto:2085886325@qq.com) • [GitHub](https://github.com/why-qw1ko) • [仓库](https://github.com/why-qw1ko?tab=repositories)
 
